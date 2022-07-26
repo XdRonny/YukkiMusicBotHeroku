@@ -1,1 +1,19 @@
-dotenv
+{
+  "name": "ssoheroxyukkiloader",
+  "version": "1.0.0",
+  "description": "Deploy Yukki Music Bot For Heroku From Here With Loader ! Idea & Implemented By @SSOHERO",
+  "main": "ssohero.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/officialssohero/YukkiMusicBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/officialssohero/YukkiMusicBot/issues"
+  },
+  "homepage": "https://github.com/officialssohero/YukkiMusicBot#readme"
+}
